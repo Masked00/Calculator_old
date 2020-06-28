@@ -61,4 +61,5 @@ int main()
        default:cout<<"Enter between 1-4 "<<endl;
    }
     return 0;
+    getch();
 }
